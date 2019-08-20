@@ -1,0 +1,10 @@
+
+public class CodeRunnerPratice2 {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
